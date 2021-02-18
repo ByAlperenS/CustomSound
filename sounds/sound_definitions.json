@@ -1,0 +1,26 @@
+{
+    "custom.sound.cave": {
+        "sounds": [{
+            "name": "sounds/mob/player/attack/cave1",
+            "volume": 1
+        }]
+    },
+    "game.player.hurt": {
+        "category": "player",
+        "sounds": ["sounds/damage/hit1", {
+            "name": "sounds/damage/hit2",
+            "load_on_low_memory": true
+        }, "sounds/damage/hit3"]
+    },
+    "game.player.drown": {
+        "category": "player",
+        "sounds": ["sounds/damage/drown1", "sounds/damage/drown2", "sounds/damage/drown3", "sounds/damage/drown4"]
+    },
+    "game.player.die": {
+        "category": "player",
+        "sounds": ["sounds/damage/hit1", {
+            "name": "sounds/damage/hit2",
+            "load_on_low_memory": true
+        }, "sounds/damage/hit3"]
+    }
+}

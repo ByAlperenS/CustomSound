@@ -1,0 +1,17 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "Custom Sound Resource Pack",
+		"name": "CustomSound",
+		"uuid": "13aa91e2-7151-11eb-9439-0242ac130002",
+		"version": [1, 8, 0]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "resources",
+			"uuid": "1f88d6ae-7151-11eb-9439-0242ac130002",
+			"version": [1, 8, 0]
+		}
+	]
+}

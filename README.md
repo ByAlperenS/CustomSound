@@ -33,4 +33,4 @@ $sender->sendDataPacket($packet);
 
 **Discord:** ByAlperenS#2447
 
-**Team Discord Server:** ![Discord](https://img.shields.io/discord/810589153276198972?label=Fear-Team&style=flat-square)
+**Team Discord Server:** <a href="https://discord.gg/DPMkdKyEWW">![Discord](https://img.shields.io/discord/810589153276198972?label=Fear-Team&logo=Discord&style=flat-square)</a>

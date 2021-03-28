@@ -32,5 +32,3 @@ $sender->sendDataPacket($packet);
 **If you want more sounds added, you can contact me on Discord!**
 
 **Discord:** ByAlperenS#2447
-
-**Team Discord Server:** <a href="https://discord.gg/DPMkdKyEWW">![Discord](https://img.shields.io/discord/810589153276198972?label=Fear-Team&logo=Discord&style=flat-square)</a>
